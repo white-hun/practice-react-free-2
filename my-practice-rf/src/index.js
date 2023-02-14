@@ -34,7 +34,8 @@ root.render(
   // <Calculator />
   // <ProfileCard />
   // <DarkOrLight />
-  <Blocks />
+  // <Blocks />
+  <App />
   // </React.StrictMode>
 );
 
